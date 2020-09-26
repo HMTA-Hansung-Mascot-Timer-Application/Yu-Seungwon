@@ -89,8 +89,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-![1](https://user-images.githubusercontent.com/40445477/94340793-7329f000-003f-11eb-96e3-24a9fcde01d1.jpg)
+![3](https://user-images.githubusercontent.com/40445477/94340851-e59ad000-003f-11eb-9e78-cb1019192d14.PNG)
+
 
 </br>
 
-![2](https://user-images.githubusercontent.com/40445477/94340802-7b822b00-003f-11eb-9fcc-b9fbbb6a92a1.jpg)
+![4](https://user-images.githubusercontent.com/40445477/94340855-ee8ba180-003f-11eb-823d-ec77121f96fa.PNG)
+
